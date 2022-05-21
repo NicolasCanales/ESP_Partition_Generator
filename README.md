@@ -1,4 +1,4 @@
-# particionesESP
+# ESP_Partition_Generator
 Dedicado a facilitar la tarea de configurar particiones en la tarjeta de desarrollo ESP32
 
 Archivo *autoSettings.py* solo es posible usarlo en Windows 10 p superior, dedicado para usuarios que usan IDE de Arduino.
